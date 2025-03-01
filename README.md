@@ -3,7 +3,7 @@
 ### Overview
 This HR Analytics Dashboard visualizes key Human Resources (HR) data in an interactive and insightful format. It includes a range of metrics, such as employee count, attrition rate, department-wise attrition, employee distribution by age group, and job satisfaction ratings. The dashboard is designed to provide a holistic view of the organization's workforce, helping HR teams to monitor, analyze, and take data-driven actions based on key HR performance indicators.
 
-![](file-HCWG1qqp9QL3qaXhDMkTaB)
+![](https://github.com/sanmyyung/HR-Analytics-/blob/main/Dashboard.JPG)
 
 ### Key Performance Indicators (KPIs)
 - **Employee Count**: 1,470 total employees
